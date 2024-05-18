@@ -54,7 +54,7 @@
 
 ## Projects
 
-### TalkNest (Online Chat & Video App)
+### TalkNest (Online Chat & Video App) -- Available at: http://talknest.online
 **React, Node.js, WebRTC, Socket.io, Firebase, and Heroku**  
 01/2024 - 03/2024
 
@@ -62,7 +62,7 @@
 - Integrated Firebase for real-time mapping of `uid` with `socketId` for video calls using WebRTC and Socket.io and facilitated message storage aligning with the job's emphasis on scalable cloud-based solutions.
 - Achieved a 99.9% deployment success rate on Heroku by integrating CI/CD pipelines and employing Cypress for E2E testing via GitHub Actions demonstrating skills in continuous integration.
 
-### PolyglotBot (AI English Content Chatbot)
+### PolyglotBot (AI English Content Chatbot) -- Available at: http://polyglotbot.store
 **Microservices, Spring Boot, Flask, and LLM**  
 02/2024 - 04/2024
 
