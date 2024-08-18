@@ -40,7 +40,7 @@
 
 - Created a PDF-to-interactive learning materials conversion tool with Spring Boot using RESTful APIs that successfully processed over 5000 documents in two months; integrated secure JWT authentication via AWS Cognito.
 - Deployed the application on AWS ECS via Docker Containers leveraging DynamoDB for data management enhancing scalability and deployment efficiency.
-- Implemented Newman (via Postman) E2E tests within GitHub Actions for automated service monitoring and rollback achieving 99.9% service availability. Conducted robust testing using Mockito JUnit and documented APIs with Swagger 2 ensuring high-quality code and effective frontend integration.
+- Implemented Newman (via Postman) E2E tests within GitHub Actions for automated service monitoring and rollback achieving 99.9% service availability. Conducted robust testing using Mockito JUnit and documented APIs with Swagger 2 ensuring high-quality code and fully documented APIs.
 
 ### Weina Technology Company, Lanzhou, China
 **Backend Developer Intern** | Python, Docker & Kubernetes  
