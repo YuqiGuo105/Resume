@@ -44,7 +44,7 @@
 
 ### Weina Technology Company, Lanzhou, China
 **Backend Developer Intern** | Python, Docker & Kubernetes  
-09/2021 - 02/2022
+02/2021 - 02/2022
 
 - Developed and maintained backend services for an e-commerce platform using the Python Flask framework ensuring robust and scalable application performance aligned with the job’s emphasis on backend development.
 - Led Kubernetes cluster deployment managing containerized applications for improved scalability and reliability. Implemented load balancing and auto-scaling to ensure Cloud-based application deployment’s availability.
