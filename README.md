@@ -43,7 +43,7 @@
 - Implemented Newman (via Postman) E2E tests within GitHub Actions for automated service monitoring and rollback achieving 99.9% service availability. Conducted robust testing using Mockito JUnit and documented APIs with Swagger 2 ensuring high-quality code and fully documented APIs.
 
 ### Weina Technology Company, Lanzhou, China
-**Backend Developer Intern** | Python, Docker & Kubernetes  
+**Backend Developer** | Python, Docker & Kubernetes  
 02/2021 - 02/2022
 
 - Developed and maintained backend services for an e-commerce platform using the Python Flask framework ensuring robust and scalable application performance aligned with the job’s emphasis on backend development.
